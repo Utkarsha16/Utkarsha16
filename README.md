@@ -1,7 +1,7 @@
 ![logo](https://github.com/Utkarsha16/Utkarsha16/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Utkarsha</h1>
 <h3 align="center">A passionate Software Engineer and Android Developer from India</h3>
-<img align = "right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRakshikakadu&psig=AOvVaw1jRyOL3E8AjnKTsRSfEBz0&ust=1672212273349000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjS_q2imfwCFQAAAAAdAAAAABAh"/>  
+<img align = "right" alt="coding"width="400" src="https://github.com/Utkarsha16/Utkarsha16/blob/main/GitImage.gif"/>  
 
 - ⚡ Fun fact **A strange talent I have💻**
 
