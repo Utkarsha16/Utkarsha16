@@ -1,4 +1,4 @@
-![logo](https://github.com/Utkarsha16/Utkarsha16/blob/main/Github%20Banner.png)
+![logo](https://github.com/Utkarsha16/Utkarsha16/blob/main/Github2%20Banner.png)
 <h1 align="center">Hi 👋, I'm Utkarsha</h1>
 <h3 align="center">A Passionate Software Engineer and Android Developer</h3>
 <img align = "right" alt="coding"width="400" src="https://github.com/Utkarsha16/Utkarsha16/blob/main/GitImage.gif"/>  
